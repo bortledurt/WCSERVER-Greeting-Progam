@@ -1,4 +1,4 @@
-const {greet} = require('./myGreetings.js');
+const greet = require('./myGreetings.js');
 
 
 console.log(greet ("John"));
